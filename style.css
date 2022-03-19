@@ -1,0 +1,16 @@
+#mc  {
+    border: 10px solid rgb(163, 163, 131);
+    background-color: rgb(199, 199, 158);
+}
+
+body {
+    background-image: url('https://i.pinimg.com/736x/95/6d/e3/956de309aa56da3289d3fa8ec82c42b9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    size: 30px;
+    text-decoration: underline;
+    font-family: monospace;
+}
